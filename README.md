@@ -14,6 +14,9 @@ TensorFlow 中文资源全集，学习路径推荐：
 TensorFlow 中文社区
 
 http://www.tensorflow123.com/
+https://github.com/xieguobin/GAI_local1_0.1.0/blob/master/README.md
+https://github.com/aianaconda/TensorFlow_Engineering_Implementation
+
 
 很多内容参考下面这个英文项目，收集了中文资源:
 
